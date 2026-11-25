@@ -79,7 +79,10 @@ digital-financial-inclusion-pakistan/
 │   └── wdi_raw.csv
 └── results/
     ├── fig1_pakistan_vs_group.png
-    └── fig2_inclusion_vs_income.png
+    ├── fig2_inclusion_vs_income.png
+    ├── pakistan_vs_comparison_table.csv
+    ├── regression_table.txt
+    └── cross_country_gap_2021.csv
 ```
 ## 9. How to reproduce the analysis
 
