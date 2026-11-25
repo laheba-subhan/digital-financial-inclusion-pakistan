@@ -53,13 +53,9 @@ The regression results also showed that the relationship between account ownersh
 
 ## 6. Figures
 
-Account ownership: Pakistan and comparison countries
+![Account ownership: Pakistan vs comparison countries](results/fig1_pakistan_vs_group.png)
 
-![Pakistan vs comparison countries](results/fig1_pakistan_vs_group.png)
-
-Financial inclusion and income (2021 wave)
-
-![Financial inclusion and income](results/fig2_inclusion_vs_income.png)
+![Financial inclusion and income (2021 wave)](results/fig2_inclusion_vs_income.png)
 
 ## 7. Limitations
 
