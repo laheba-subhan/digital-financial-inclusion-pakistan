@@ -68,8 +68,20 @@ There are some limitations to this study that are important to mention.
 - Some collected indicators were not included in the final models because of missing data or their limited relevance to the analysis.
 
 I would like to explore factors such as the gender gap, access to banking services, digital infrastructure and public trust in financial institutions in future research. These are possible areas for further investigation, not conclusions from this study.
+## 8. Repository structure
 
-## 8. How to reproduce the analysis
+```
+digital-financial-inclusion-pakistan/
+├── README.md
+├── analysis.R
+├── data/
+│   ├── panel_clean.csv
+│   └── wdi_raw.csv
+└── results/
+    ├── fig1_pakistan_vs_group.png
+    └── fig2_inclusion_vs_income.png
+```
+## 9. How to reproduce the analysis
 
 The analysis can be reproduced using R or RStudio.
 
@@ -87,7 +99,7 @@ install.packages(c("WDI", "tidyverse", "fixest", "modelsummary"))
 The script downloads the data, prepares the dataset and generates the tables and figures.
 
 
-## 9. Data sources
+## 10. Data sources
 
 - World Bank – [World Development Indicators](https://data.worldbank.org/)
 - World Bank – [Global Findex Database](https://www.worldbank.org/en/publication/globalfindex)
